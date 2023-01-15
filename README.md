@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá, eu sou Janilson Varela
 
-<!--
-**jvsjanilson/jvsjanilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou trabalhando com Laravel
+- 🌱 Estou estudando Javascript/TypeScript e React 
+- 📫 Contate-me no email: janilsonjvs@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/jvsjanilson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvsjanilson&theme=dracula&show_icons=true" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jan-HTML" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Jan-CSS" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Jan-Javascript" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  
+  <img align="center" alt="Jan-Typescript" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  
+  <img align="center" alt="Jan-PHP" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="Jan-python" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Jan-PHP" height=30 width=40 src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" />
+  
+  
+</div>
