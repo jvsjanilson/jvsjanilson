@@ -5,10 +5,10 @@
 - 📫 Contate-me no email: janilsonjvs@gmail.com
 
 
-<div>
+<!-- <div>
   <a href="https://github.com/jvsjanilson">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvsjanilson&theme=dracula&show_icons=true" />
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jan-HTML" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
