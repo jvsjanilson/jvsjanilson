@@ -1,7 +1,7 @@
 ## Olá, eu sou Janilson Varela
 
-- 🔭 Hoje estou trabalhando com Laravel e Delphi
-- 🌱 Estou estudando Javascript/TypeScript e React 
+- 🔭 Hoje estou trabalhando com Laravel, Delphi e C#
+- 🌱 Estou estudando Javascript/TypeScript, React e Python(Django)
 - 📫 Contate-me no email: janilsonjvs@gmail.com
 
 
